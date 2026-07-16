@@ -3,8 +3,8 @@ This Repository contains Project1
 
 # These are the links to my website and Figma designed.
 
-tacit-hurry-74372995.figma.site
-https://chengfqeng.github.io/CSCI355-SU-Project1/
+1.tacit-hurry-74372995.figma.site
+2.https://chengfqeng.github.io/CSCI355-SU-Project1/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 # Portfolio website questions and answers
