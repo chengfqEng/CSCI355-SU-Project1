@@ -3,7 +3,7 @@ This Repository contains Project1
 
 # These are the links to my website and Figma designed.
 
-1.tacit-hurry-74372995.figma.site
+1.tacit-hurry-74372995.figma.site |
 2.https://chengfqeng.github.io/CSCI355-SU-Project1/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
