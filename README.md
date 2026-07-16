@@ -6,6 +6,8 @@ This Repository contains Project1
 1.tacit-hurry-74372995.figma.site |
 2.https://chengfqeng.github.io/CSCI355-SU-Project1/
 
+# Timeline of my Project1
+	There is also an excel with a time line of the project
 -----------------------------------------------------------------------------------------------------------------------------------------------
 # Portfolio website questions and answers
 
